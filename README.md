@@ -9,7 +9,7 @@ This repository contains the following :
 * A `to_bookmarklet.php` file that converts the first into the second.
     * Usage: `php to_bookmarklet.php my_javascript_source.js`
 
-Right now there is only One bookmarklet here :
+Right now there is only Two bookmarklet here: (*Javascript links are disallowed here so I made a jsFiddle links*)
 
 ReCSS <sub>(with [-prefix-free](http://leaverou.github.io/prefixfree/) support)</sub>
 -------------------------------
@@ -17,6 +17,13 @@ ReCSS <sub>(with [-prefix-free](http://leaverou.github.io/prefixfree/) support)<
 
 I have allways used ReCss in order to reload only css when integrating a web page, but it is broken by -prefix-free (wich I use a lot now), so I made a version that takes care of it (works both with or without -prefix-free.
 
-**Link:** http://jsfiddle.net/5EP2x/1/ *Javascript links are disallowed here so I made a jsFiddle*
+**Link:** http://jsfiddle.net/5EP2x/1/
+
+PasswordGen
+-----------
+
+I made this one a few years ago, but I still use it, creates a popup, allowing to generate a random password, if an input is on focus, the password is directly entered into it.
+
+**Link:** http://jsfiddle.net/czhGa/
 
 
