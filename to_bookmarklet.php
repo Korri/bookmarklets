@@ -111,6 +111,10 @@ $js = file_get_contents($file);
 $js = minify($js);
 //Remove unecessary ; so we win a few more chars
 $js = preg_replace('/;}/', '}', $js);
+
+//Sanityse quotes
+$js = str_replace('"', '%22', $js);
+
 $js = 'javascript:void(function(){' . $js . '})();';
 
 file_put_contents(preg_replace('/\.js$/', '.bookmarklet.js', $file), $js);
