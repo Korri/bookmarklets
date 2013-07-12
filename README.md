@@ -11,9 +11,12 @@ This repository contains the following :
 
 Right now there is only One bookmarklet here :
 
-ReCss <sub>(with [-prefix-free](http://leaverou.github.io/prefixfree/) support)</sub>
+ReCSS <sub>(with [-prefix-free](http://leaverou.github.io/prefixfree/) support)</sub>
 -------------------------------
+*Based on work by David Schontzler and Calvin Conaway : http://calvinconaway.com/2006/02/13/re-recss/*
 
-I have allways used ReCss in order to reload only css when integrating a web page, but it is broken by [-prefix-free](http://leaverou.github.io/prefixfree/) (wich I use a lot now), so I made a version that takes care of this conflict.
+I have allways used ReCss in order to reload only css when integrating a web page, but it is broken by -prefix-free (wich I use a lot now), so I made a version that takes care of it (works both with or without -prefix-free.
 
-Based on work by David Schontzler and Calvin Conaway : http://calvinconaway.com/2006/02/13/re-recss/
+**Link:** http://jsfiddle.net/5EP2x/1/ *Javascript links are disallowed here so I made a jsFiddle*
+
+
