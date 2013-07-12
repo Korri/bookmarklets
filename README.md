@@ -21,8 +21,7 @@ I have allways used ReCss in order to reload only css when integrating a web pag
 
 PasswordGen
 -----------
-
-I made this one a few years ago, but I still use it, creates a popup, allowing to generate a random password, if an input is on focus, the password is directly entered into it.
+I made this one a few years ago, but I still use it, creates a popup, allowing to generate a random password, if an input is focused, the password is directly typed into it.
 
 **Link:** http://jsfiddle.net/czhGa/
 
