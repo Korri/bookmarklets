@@ -11,7 +11,6 @@ for (i = 0; i < a.length; i++) {
 if(typeof StyleFix !== 'undefined') {
     a = document.getElementsByTagName('style');
     for (i = 0; i < a.length;/* We don't increment i as replacing a <style> tag by a <link> tag will remove it from "a" */) {
-        console.log(i, '++', a.length);
         s = a[i];
         h = s.getAttribute('data-href');
         if(h) {
