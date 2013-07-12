@@ -11,7 +11,7 @@ This repository contains the following :
 
 Right now there is only Two bookmarklet here: (*Javascript links are disallowed here so I made a jsFiddle links*)
 
-ReCSS <sub>(with [-prefix-free](http://leaverou.github.io/prefixfree/) support)</sub>
+ReCSS <sub>with [-prefix-free](http://leaverou.github.io/prefixfree/) support</sub>
 -------------------------------
 *Based on work by David Schontzler and Calvin Conaway : http://calvinconaway.com/2006/02/13/re-recss/*
 
