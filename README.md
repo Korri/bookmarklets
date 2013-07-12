@@ -6,7 +6,8 @@ I love bookmarklets, they are handy and powerful, so I decided to make (or impro
 This repository contains the following :
 * `.js` files wich contains the bookmarklet uncompressed code.
 * `.bookmarklet.js` files that contains the compressed version of the bookmarklet.
-* A `to_bookmarklet.php` file that converts the first into the second (Usage: `php to_bookmarklet.php my_javascript_source.js`).
+* A `to_bookmarklet.php` file that converts the first into the second.
+    * Usage: `php to_bookmarklet.php my_javascript_source.js`
 
 Right now there is only One bookmarklet here :
 
