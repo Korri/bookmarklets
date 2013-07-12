@@ -11,7 +11,7 @@ This repository contains the following :
 
 Right now there is only One bookmarklet here :
 
-ReCss (with [-prefix-free](http://leaverou.github.io/prefixfree/) support)
+ReCss <sup>(with [-prefix-free](http://leaverou.github.io/prefixfree/) support)</sup>
 -------------------------------
 
 I have allways used ReCss in order to reload only css when integrating a web page, but it is broken by [-prefix-free](http://leaverou.github.io/prefixfree/) (wich I use a lot now), so I made a version that takes care of this conflict.
